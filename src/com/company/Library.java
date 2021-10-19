@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Library {
     private String name;
+    //addrres of library
     private String address;
     private List<WorkDay> workDays = new ArrayList<WorkDay>();
 
